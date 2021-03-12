@@ -11,7 +11,7 @@ For more information on Parcel you can access it's docs at: https://parceljs.org
 
 # Demo 
 
-![Alt Demo failed to load D:](https://github.com/iagokrt/glsl-laboratorie/tree/main/public/demo.gif)
+![Alt Demo failed to load D:](https://github.com/iagokrt/glsl-laboratorie/blob/main/public/demo.gif?raw=true)
 
 - More demos samples coming soon! 
 
